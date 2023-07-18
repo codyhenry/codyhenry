@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### :man_technologist: About Me :
 I am a Software Developer at Pro College Consulting building web applications 
-- 🌱 I’m currently learning Machine Learning and AI
+- 🌱 I’m currently embedded systems
 - ⚡ Fun fact: I love board games and I'm always looking to grow my collection
 - :books: Right now I am reading "The Art of Clean Code" by Christian Mayer
 
